@@ -73,7 +73,7 @@ p{
     display: flex;
     border-radius: 10px;
     box-sizing: border-box;
-   ;
+    padding: 13%;
 }
 
 .footer {
