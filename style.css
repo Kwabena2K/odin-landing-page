@@ -138,10 +138,10 @@ p{
   }
 
   html, body {
-      background-color: #1F2937;
-      padding: 0;
-      margin: 0;
+     background-color: #1F2937;
       font-family: 'Roboto', Arial, Helvetica, sans-serif;
+      height: 100%;
+      width: 100%;
   }
 
  
