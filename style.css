@@ -143,5 +143,9 @@ p{
       height: 100%;
       width: 100%;
   }
-
  
+.gingquote {
+        color: black;
+        font-size: 36px;
+        font-style: italic;
+  }
