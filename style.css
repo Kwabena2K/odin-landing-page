@@ -12,7 +12,6 @@
 }
 
 .navbar {
-    height: 12%;
     display: flex;
     align-items: center;
 }
@@ -51,9 +50,6 @@ nav ul li a {
     margin-top: 100px;
 }
 
-.col {
-    flex-basis: 50%;
-}
 
 h1 {
     color: white;
@@ -127,7 +123,6 @@ p{
     justify-content: center;
     align-items: center;
     background-color: #fff;
-    width: 100%;
     margin: 0;
   }
 
@@ -136,7 +131,6 @@ p{
     flex-direction: column;
     background-color: rgb(194, 149, 0);
     padding: 100px;
-    width: 100%;
     margin-top: 100px;
     text-align: center;
     font-style: italic;
